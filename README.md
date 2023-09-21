@@ -38,4 +38,20 @@ The project aims to provide valuable insights into Olympic performance trends, c
 3. **Storage/Analysis Stage:** Data is stored and made available for analysis in platforms such as Hive for querying, HBase for NoSQL storage, and Snowflake for data warehousing.
 
 4. **Power BI Stage:** In the final stage, Power BI is utilized for data visualization and reporting, enabling stakeholders to access insights and make informed decisions based on Olympic Games data.
-```
+
+## Contributions 🤝
+
+Contributions to this project are welcome! Feel free to submit a pull request if you have any suggestions or want to add more features. Please ensure your changes are well-tested and align with the project's goals.
+
+## Get in Touch 📞
+
+If you have any questions, suggestions, or feedback, don't hesitate to reach out to us. You can contact me on [LinkedIn](www.linkedin.com/in/jayjathar1409) 
+
+## Languages and Tools
+
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://seekvectorlogo.com/power-bi-vector-logo-svg/" target="_blank"><img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" alt="c" width="60" height="40"/></a>
+
+---
+
+Happy data engineering!
