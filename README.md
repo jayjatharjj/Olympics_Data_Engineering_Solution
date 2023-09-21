@@ -1,8 +1,8 @@
 # End to End Olympic Events Data Engineering Solution
 
 ## Brief Description
-
-The Olympic Data Engineering Solution project utilizes Olympic data to conduct in-depth analyses of historical performance, participation, and medal distribution across various countries and sports. The solution employs HBase in conjunction with a Sqoop pipeline for efficient data import, AWS S3 Snowpipe for external staging, Azure Copy for additional external staging, and Power BI for data visualization.
+ 
+The Olympic Data Engineering Solution project is a sophisticated data analytics endeavor that harnesses Olympic data for in-depth analysis of historical performance, participation, and medal distribution across countries and sports. This project utilizes an array of cutting-edge technologies, including HBase for efficient data storage and online analysis, a Sqoop pipeline for streamlined data import, AWS S3 for secure external staging, Azure for cloud-based processing, Hive for batch analysis, Snowflake for data warehousing and cloud-based analytics, and Power BI for intuitive data visualization. By leveraging these tools and platforms, the project ensures scalability, real-time data updates, and insightful data visualization, facilitating comprehensive insights into the world of Olympic sports.
 
 ## Business Problem
 
